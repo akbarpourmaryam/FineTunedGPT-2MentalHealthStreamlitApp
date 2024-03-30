@@ -4,8 +4,7 @@ This repository contains a fine-tuned GPT-2 model and a Streamlit app (`app.py`)
 # Set up and Run the App
 1. **Clone the Repository**: First, clone this repository to your local machine using Git. Open a terminal or command prompt and run the following command:
    ```bash
-   git clone your-github-repository-url
-   cd name-of-the-cloned-directory
+   git clone https://github.com/akbarpourmaryam/FineTunedGPT-2MentalHealthStreamlitApp)
 
 2. **Install Streamlit and Transformers
    ```bash
