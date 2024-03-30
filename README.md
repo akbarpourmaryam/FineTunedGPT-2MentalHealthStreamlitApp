@@ -1,4 +1,4 @@
-# GPT-2 mental health Streamlit App
+# Fine Tuned GPT-2 for Streamlit mental health App
 This repository contains a fine-tuned GPT-2 model and a Streamlit app (`app.py`) for question answering related to mental health. Follow the instructions below to set up and run the app on your local machine.
 
 
