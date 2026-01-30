@@ -108,6 +108,3 @@ manageable.
 
 - This is a proof-of-concept demo, not a clinical tool.
 - Model outputs depend on fine-tuning data quality and training settings.
-git status -sb
-
-git status -sb
