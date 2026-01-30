@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+ 
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+ 
+# Jupyter
+.ipynb_checkpoints/
+ 
+# Model artifacts (keep local only)
+my_model/
+my_model_v1.zip
+*.zip
